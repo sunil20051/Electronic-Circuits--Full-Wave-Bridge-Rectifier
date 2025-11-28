@@ -58,4 +58,5 @@ FULL WAVE BRIDGE RECTIFIER WITHOUT FILTER:
 
 
 ## RESULT:
-![WhatsApp Image 2025-11-26 at 19 31 15_68cb9831](https://github.com/user-attachments/assets/a6f7f221-d7b7-4a52-941d-ee6dbe3f8918)
+![WhatsApp Image 2025-11-28 at 10 05 01_2fdb8a36](https://github.com/user-attachments/assets/7c3fbb38-5419-4319-97f9-05ff49db873b)
+
